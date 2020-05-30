@@ -1,2 +1,2 @@
-# repo-with-blog
-This is a test repo with blog
+# my-blog
+This is a with my blog using Jekyll and the github-pages plugin
