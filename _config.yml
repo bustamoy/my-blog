@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: My Blog
+author: bustamoy
 email: 1159671+bustamoy@users.noreply.github.com
 description: This is a blog about random things
 baseurl: "/my-blog" # the subpath of your site, e.g. /blog
