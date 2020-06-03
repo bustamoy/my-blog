@@ -5,18 +5,13 @@ date:   2020-05-14
 categories: blog
 typora-root-url: ../../
 typora-copy-images-to: ../../images
-
 ---
 
-## Title Here
-
-The final(?) day of Mac workstation setup and preparation.
-
-### The Application Cycle
+# The application cycle
 
 I started off this day focusing on the blogging content for the past few entries.  As I was looking up URLs for the applications I wrote about earlier, I found a few replacement candidates.
 
-#### Window Management
+## Window management
 (Moom ---> ~~Spectacle~~ ---> ShiftIt ---> Tiles ---> ~~ShiftIt~~ ---> Rectangle & Catalina)
 
 Quite a long trail of utilities for a simple purpose.  When I first used a Mac I was doing mobile development for iOS, but my main computer was my windows desktop for gaming.  I didn't understand the green window button and why it didn't behave like the Windows maximize button.  I found out that using the Alt/Option key would make it maximize but I couldn't get used to that and felt that the Mac application window sizes were very inconsistent in their default states.
@@ -33,7 +28,7 @@ The next set of switching was trying to find a minimal application that supporte
 
 Which brings me to the final selection, [Rectangle](https://rectangleapp.com/).  Rectangle does Maximize the way I expect, and I was able to set all of the hotkeys I was looking for.  The only thing missing is a shortcut for Full Screen.  Here is how I added it in Catalina.
 
-##### Full Screen Shortcut in Catalina
+## Full screen shortcut in Catalina
 macOS already has the ability to define custom shortcut keys.  These are set up in the [System Preferences](x-apple.systempreferences:) Keyboard ---> Shortcut tab.
 
 ![Keyboard Settings: Shortcuts](/images/shortcuts1.png)
@@ -46,7 +41,7 @@ All that was left was to enter this information and select the shortcut key.  My
 
 ![New Shortcut](/images/shortcuts3.png)
 
-#### Disk Space Usage
+## Disk space usage
 (DiskInventory X --> Disk Cartographer --> DiskInventory X)
 
 For the longest time I used [DiskInventory X](http://www.derlien.com/).  I picked this application because it was very similar to WinDirStat that I used on Windows.  For some reason I decided that I was going to switch to [Disk Cartography](https://apps.apple.com/us/app/disk-cartography-clever-disk-space-analyzer/id905264208).  Come to think of it, I believe it was because I was trying to replace all my applications with applications from the Mac App Store.
@@ -54,10 +49,4 @@ For the longest time I used [DiskInventory X](http://www.derlien.com/).  I picke
 Disk Cartographer did not have the graphical map that I was looking for.  This quickly and easily shows me the largest files and I like that it groups and colors them by file type.
 
 ![DiskInventory X](/images/diskspace1.png)
-
-#### Mark(Show)Down
-
-Next came the task of selecting a Markdown editor.  It needed to be free, have a separate preview on the right-hand side, work directly with files, and support vi-style controls.
-
-This 
 
