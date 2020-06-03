@@ -23,7 +23,7 @@ author: bustamoy
 email: 1159671+bustamoy@users.noreply.github.com
 description: This is a blog about random things
 baseurl: "/my-blog" # the subpath of your site, e.g. /blog
-url: "http://bustamoy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bustamoy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  bustamoy
 
