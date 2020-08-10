@@ -3,7 +3,7 @@ layout: post
 title:  "Application Cycling"
 date:   2020-05-14
 categories: blog
-typora-root-url: ../../
+typora-root-url: ../../../
 typora-copy-images-to: ../../images
 ---
 
@@ -31,15 +31,15 @@ Which brings me to the final selection, [Rectangle](https://rectangleapp.com/). 
 ## Full screen shortcut in Catalina
 macOS already has the ability to define custom shortcut keys.  These are set up in the [System Preferences](x-apple.systempreferences:) Keyboard ---> Shortcut tab.
 
-![Keyboard Settings: Shortcuts](/images/shortcuts1.png)
+![Keyboard Settings: Shortcuts](/my-blog/images/shortcuts1.png)
 
 To set up a global shortcut for the Full Screen functionality, I looked up the menu option for Full Screen under the View menu.
 
-![View Menu](/images/shortcuts2.png)
+![View Menu](/my-blog/images/shortcuts2.png)
 
 All that was left was to enter this information and select the shortcut key.  My window configuration modifier combination is Ctrl-Option-Cmd and for Full Screen I decided on F.
 
-![New Shortcut](/images/shortcuts3.png)
+![New Shortcut](/my-blog/images/shortcuts3.png)
 
 ## Disk space usage
 (DiskInventory X --> Disk Cartographer --> DiskInventory X)
@@ -48,5 +48,5 @@ For the longest time I used [DiskInventory X](http://www.derlien.com/).  I picke
 
 Disk Cartographer did not have the graphical map that I was looking for.  This quickly and easily shows me the largest files and I like that it groups and colors them by file type.
 
-![DiskInventory X](/images/diskspace1.png)
+![DiskInventory X](/my-blog/images/diskspace1.png)
 

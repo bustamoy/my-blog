@@ -3,7 +3,7 @@ layout: post
 title:  "Utilities"
 date:   2020-05-12
 categories: blog
-typora-root-url: ../../
+typora-root-url: ../../../
 typora-copy-images-to: ../../images
 
 ---
